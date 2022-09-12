@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T05:45:41.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="20.3.0" etag="Xy-CJE55Ex6mIF1AxNcP" type="github"><diagram id="vNqs2xdH_GgqTKvBGdwA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:37:40.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="ZChzrSSxrAQTl8zGmb7t" version="20.3.0" type="github">
+  <diagram id="vNqs2xdH_GgqTKvBGdwA" name="第 1 页">
+    <mxGraphModel dx="627" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cR30oXibcWuAhZSg8FXj-2" value="Romwe主工程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-3" value="登录组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-4" value="romwe静默登录逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-5" value="romwe登录model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-6" value="组件静默登录和登录用户信息model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-7" value="主工程登录成功通知和请求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-8" value="Romwe主工程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-9" value="登录组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-12" value="组件静默登录和登录用户信息model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-13" value="Romwe主工程登录成功通知和请求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="111" y="430" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-16" value="romwe登录逻辑优化后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="260" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-18" value="romwe登录逻辑优化前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-24" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
