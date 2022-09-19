@@ -1,49 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T06:37:40.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="ZChzrSSxrAQTl8zGmb7t" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T09:43:39.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bPe4AbhtFcEk0aRPQ3QV" version="20.3.0" type="github">
   <diagram id="vNqs2xdH_GgqTKvBGdwA" name="第 1 页">
-    <mxGraphModel dx="627" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cR30oXibcWuAhZSg8FXj-2" value="Romwe主工程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="GXweVBrqXT5Lnay7hsid-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-2" target="cR30oXibcWuAhZSg8FXj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-2" value="Romwe主工程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-3" value="登录组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="GXweVBrqXT5Lnay7hsid-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-3" target="cR30oXibcWuAhZSg8FXj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GXweVBrqXT5Lnay7hsid-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-3" target="cR30oXibcWuAhZSg8FXj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GXweVBrqXT5Lnay7hsid-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.591;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-3" target="cR30oXibcWuAhZSg8FXj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-3" value="登录组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-4" value="romwe静默登录逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="GXweVBrqXT5Lnay7hsid-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.126;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-4" target="cR30oXibcWuAhZSg8FXj-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-5" value="romwe登录model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="230" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="cR30oXibcWuAhZSg8FXj-4" value="romwe静默登录逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="109" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-6" value="组件静默登录和登录用户信息model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="GXweVBrqXT5Lnay7hsid-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-5" target="cR30oXibcWuAhZSg8FXj-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-7" value="主工程登录成功通知和请求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="350" height="30" as="geometry" />
+        <mxCell id="cR30oXibcWuAhZSg8FXj-5" value="romwe登录model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="229" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-8" value="Romwe主工程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="350" height="30" as="geometry" />
+        <mxCell id="GXweVBrqXT5Lnay7hsid-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.849;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-6" target="cR30oXibcWuAhZSg8FXj-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-9" value="登录组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="340" width="350" height="30" as="geometry" />
+        <mxCell id="cR30oXibcWuAhZSg8FXj-6" value="组件静默登录和登录用户信息model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="349" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-12" value="组件静默登录和登录用户信息model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="110" y="390" width="350" height="30" as="geometry" />
+        <mxCell id="cR30oXibcWuAhZSg8FXj-7" value="主工程登录成功通知和请求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="108" y="220" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-13" value="Romwe主工程登录成功通知和请求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="111" y="430" width="350" height="30" as="geometry" />
+        <mxCell id="GXweVBrqXT5Lnay7hsid-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-8" target="cR30oXibcWuAhZSg8FXj-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-16" value="romwe登录逻辑优化后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="195" y="260" width="180" height="30" as="geometry" />
+        <mxCell id="cR30oXibcWuAhZSg8FXj-8" value="Romwe主工程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="108" y="310" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-18" value="romwe登录逻辑优化前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GXweVBrqXT5Lnay7hsid-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-9" target="cR30oXibcWuAhZSg8FXj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-9" value="登录组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="108" y="360" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXweVBrqXT5Lnay7hsid-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cR30oXibcWuAhZSg8FXj-12" target="cR30oXibcWuAhZSg8FXj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-12" value="组件静默登录和登录用户信息model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="108" y="410" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-13" value="Romwe主工程登录成功通知和请求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="108" y="460" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-16" value="romwe登录逻辑优化后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="193" y="280" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR30oXibcWuAhZSg8FXj-18" value="romwe登录逻辑优化前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="195" y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR30oXibcWuAhZSg8FXj-24" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="cR30oXibcWuAhZSg8FXj-24" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0000;strokeColor=#FF0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="230" as="sourcePoint" />
-            <mxPoint x="280" y="260" as="targetPoint" />
+            <mxPoint x="278" y="250" as="sourcePoint" />
+            <mxPoint x="278" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
