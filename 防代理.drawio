@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T11:15:39.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rKBX7rmkCiO4-m9UeY0D" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T11:56:08.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="X-Mxq3bQjzdwefP2uq5C" version="20.3.0" type="github">
   <diagram id="l2zxerx17vZc5TBYGt_k" name="第 1 页">
     <mxGraphModel dx="1704" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="FGJW6xq87efHxYzajNmU-5" value="sharedSession" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-6" value="NSURLSessionConfiguration.&lt;br&gt;connectionProxyDictionary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-6" value="NSURLSessionConfiguration.&lt;br&gt;connectionProxyDictionary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="370" y="550" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FGJW6xq87efHxYzajNmU-10" value="防代理没生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
@@ -54,6 +54,51 @@
         </mxCell>
         <mxCell id="FGJW6xq87efHxYzajNmU-26" value="防代理没生效&lt;br&gt;重新执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-29" target="FGJW6xq87efHxYzajNmU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-29" value="&lt;font color=&quot;#000000&quot;&gt;代码注入检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-30" target="FGJW6xq87efHxYzajNmU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-30" target="FGJW6xq87efHxYzajNmU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-30" value="&lt;font color=&quot;#000000&quot;&gt;检测App加载的dyld&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="380" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-31" target="FGJW6xq87efHxYzajNmU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.025;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-31" target="FGJW6xq87efHxYzajNmU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-31" value="&lt;font color=&quot;#000000&quot;&gt;白名单检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-32" target="FGJW6xq87efHxYzajNmU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-32" value="&lt;font color=&quot;#000000&quot;&gt;黑名单检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="470" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-33" value="&lt;font color=&quot;#000000&quot;&gt;可靠安全&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="330" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-34" value="&lt;font color=&quot;#000000&quot;&gt;不可靠不安全&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="470" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-40" value="实际实验中不可靠，会出现误判" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="865" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-32" target="FGJW6xq87efHxYzajNmU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FGJW6xq87efHxYzajNmU-43" value="白名单检测&lt;br&gt;可靠" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="865" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
