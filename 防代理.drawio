@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T11:13:03.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="V_L6QNPI96h07wdQyX43" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T11:15:39.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rKBX7rmkCiO4-m9UeY0D" version="20.3.0" type="github">
   <diagram id="l2zxerx17vZc5TBYGt_k" name="第 1 页">
     <mxGraphModel dx="1704" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="FGJW6xq87efHxYzajNmU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-1" target="FGJW6xq87efHxYzajNmU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-1" value="防代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-1" value="防代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="375" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FGJW6xq87efHxYzajNmU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-2" target="FGJW6xq87efHxYzajNmU-5">
@@ -19,31 +19,31 @@
         <mxCell id="FGJW6xq87efHxYzajNmU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-2" target="FGJW6xq87efHxYzajNmU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-2" value="hook-NSURLSession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-2" value="hook-NSURLSession" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="375" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FGJW6xq87efHxYzajNmU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-3" target="FGJW6xq87efHxYzajNmU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-3" value="sessionWithConfiguration:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-3" value="sessionWithConfiguration:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FGJW6xq87efHxYzajNmU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-4" target="FGJW6xq87efHxYzajNmU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-4" value="sessionWithConfiguration:&lt;br&gt;delegate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-4" value="sessionWithConfiguration:&lt;br&gt;delegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="460" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FGJW6xq87efHxYzajNmU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-5" target="FGJW6xq87efHxYzajNmU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-5" value="sharedSession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-5" value="sharedSession" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-6" value="NSURLSessionConfiguration.&lt;br&gt;connectionProxyDictionary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-6" value="NSURLSessionConfiguration.&lt;br&gt;connectionProxyDictionary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="370" y="550" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-10" value="防代理没生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-10" value="防代理没生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="240" y="550" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FGJW6xq87efHxYzajNmU-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FGJW6xq87efHxYzajNmU-6" target="FGJW6xq87efHxYzajNmU-5">
@@ -52,7 +52,7 @@
             <mxPoint x="280" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FGJW6xq87efHxYzajNmU-26" value="防代理没生效&lt;br&gt;重新执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FGJW6xq87efHxYzajNmU-26" value="防代理没生效&lt;br&gt;重新执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="440" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
